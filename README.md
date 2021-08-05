@@ -24,3 +24,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukhammad0628&langs_count=8)](https://github.com/Mukhammad0628/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mukhammad0628&show_icons=true&theme=dark)
+
+
+![Snake animation](https://github.com/mukhammad0628/blob/output/github-contribution-grid-snake.svg)
