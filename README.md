@@ -22,4 +22,5 @@
 <a href="https://www.linkedin.com/in/mukhammad-turgunbayev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.youtube.com/c/Mukhammad-Turgunbayev/"><img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlhomMusayev&langs_count=8)](https://github.com/Mukhammad0628/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukhammad0628&langs_count=8)](https://github.com/Mukhammad0628/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mukhammad0628&show_icons=true&theme=dark)
